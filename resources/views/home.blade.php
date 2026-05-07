@@ -92,12 +92,25 @@
         min-height: calc(100vh - 64px);
         position: relative;
         overflow: hidden;
+        background-image: url('{{ asset('images/omsc-hero.jpg') }}');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .hero-section::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: rgba(5, 7, 20, 0.78);
+        z-index: 1;
     }
 
     /* Animated grid background */
     .hero-grid {
         position: absolute;
         inset: 0;
+        z-index: 2;
         background-image:
             linear-gradient(rgba(99,102,241,0.06) 1px, transparent 1px),
             linear-gradient(90deg, rgba(99,102,241,0.06) 1px, transparent 1px);
@@ -111,6 +124,7 @@
         border-radius: 50%;
         filter: blur(80px);
         pointer-events: none;
+        z-index: 2;
     }
 
     .orb-1 {
