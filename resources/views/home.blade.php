@@ -283,11 +283,6 @@
 
                 {{-- CTA Buttons --}}
                 <div class="flex flex-wrap gap-4 mb-10">
-                  <!--   <a href="{{ route('projects') }}"
-                       class="flex items-center gap-2 px-6 py-3 rounded-xl text-sm font-semibold text-white animated-gradient btn-glow">
-                        <i class="fa-solid fa-diagram-project text-xs"></i>
-                        View Projects
-                    </a> -->
                     <a href="{{ route('about') }}"
                        class="flex items-center gap-2 px-6 py-3 rounded-xl text-sm font-semibold text-white glass-card border border-white/10 hover:border-brand-500/50 hover:bg-white/5 transition-all">
                         <i class="fa-solid fa-user text-xs text-brand-400"></i>
