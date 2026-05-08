@@ -264,8 +264,8 @@
                 {{-- Name --}}
                 <h1 class="font-poppins font-bold text-4xl sm:text-5xl lg:text-6xl text-white leading-tight mb-4">
                     Hi, I'm <br>
-                    <span class="gradient-text">Test</span><br>
-                    <span class="text-slate-200">Test</span>
+                    <span class="gradient-text">Angie</span><br>
+                    <span class="text-slate-200">Nickname</span>
                 </h1>
 
                 {{-- Typewriter role --}}
