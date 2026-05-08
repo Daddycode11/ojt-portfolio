@@ -315,8 +315,8 @@
                     <div class="avatar-ring w-64 h-64 sm:w-72 sm:h-72 mx-auto animate-float">
                         <div class="w-full h-full rounded-full bg-navy-800 overflow-hidden flex items-center justify-center">
                             {{-- Replace src with actual photo --}}
-                            <img src="https://ui-avatars.com/api/?name=David+Russel+Prado&size=300&background=4f46e5&color=ffffff&font-size=0.35&bold=true"
-                                 alt="David Russel Prado"
+                            <img src="https://tse3.mm.bing.net/th/id/OIP.uygCj4mgGMgn4yfPC4APSgHaHa?r=0&w=626&h=626&rs=1&pid=ImgDetMain&o=7&rm=3"
+                                 alt="Angie's Photo"
                                  class="w-full h-full object-cover">
                         </div>
                     </div>
