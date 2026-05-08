@@ -541,7 +541,7 @@
     // Typewriter effect
     const roles = [
         'Web Developer',
-        'Laravel Developer',
+        'UI & UX Designer',
         'OJT Student @ OMSC',
         'BSIT Student',
         'Problem Solver',
